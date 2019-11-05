@@ -4,7 +4,7 @@
 As its name indicates, is a simple application web to help with the keeping track of your expenditures and incomes. Its responsive design will allow the user access from the laptop, the mobile phone and other devices without losing user comfort.
 You can test the App in https://angelabenavente.github.io/Budgety/
 
-Designed for practising JS.
+Designed for practising JS and Responsive design.
 
 ## Guide to using the repository
 You will need to install [Node.js](https://nodejs.org/) and [Gulp](https://gulpjs.com) to work with this repository, then:
